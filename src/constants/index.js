@@ -187,7 +187,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Real Time Chat Application',
         description: 'I have built a real-time chat application using the MERN stack and WebSocket, featuring secure authentication for user interactions. It enables instant messaging with a seamless, responsive experience..',
-        link: 'https://github.com/akashm1110',
+        link: 'https://realtime-chat-app-1-ew1h.onrender.com/login',
     },
     {
         iconUrl: car,
