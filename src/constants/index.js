@@ -180,14 +180,14 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Ecommerce Application',
         description: 'A Ecommerce website is developed using MERN with backend,frontend,admin panel.Using admin panel admin can add new products and its prices,categories...Each time it update with website and database..',
-        link: 'https://github.com/akashm1110',
+        link: 'https://ecommerce-application-1-20gq.onrender.com/auth/login',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Real Time Chat Application',
         description: 'I have built a real-time chat application using the MERN stack and WebSocket, featuring secure authentication for user interactions. It enables instant messaging with a seamless, responsive experience..',
-        link: 'https://github.com/akashm1110',
+        link: 'https://realtime-chat-app-1-ew1h.onrender.com/login',
     },
     {
         iconUrl: car,
