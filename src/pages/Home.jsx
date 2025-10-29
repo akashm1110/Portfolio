@@ -1,8 +1,7 @@
 
 
 import { ReactTyped } from "react-typed";
-// import pic from "../assets/akashphoto.jpg";
-import pic from "../assets/LinkedinPhoto.jpeg";
+import pic from "../assets/akashphoto.jpg";
 import { Link } from "react-router-dom";
 import { Navbar } from "../components";
 

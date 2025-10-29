@@ -101,7 +101,60 @@ export const skills = [
    
 ];
 
-
+export const experiences = [
+    {
+        title: "React.js Developer",
+        company_name: "Starbucks",
+        icon: starbucks,
+        iconBg: "#accbe1",
+        date: "March 2020 - April 2021",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "React Native Developer",
+        company_name: "Tesla",
+        icon: tesla,
+        iconBg: "#fbc3bc",
+        date: "Jan 2021 - Feb 2022",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Web Developer",
+        company_name: "Shopify",
+        icon: shopify,
+        iconBg: "#b7e4c7",
+        date: "Jan 2022 - Jan 2023",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Full stack Developer",
+        company_name: "Meta",
+        icon: meta,
+        iconBg: "#a2d2ff",
+        date: "Jan 2023 - Present",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+];
 
 export const socialLinks = [
     {
@@ -127,18 +180,14 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Ecommerce Application',
         description: 'A Ecommerce website is developed using MERN with backend,frontend,admin panel.Using admin panel admin can add new products and its prices,categories...Each time it update with website and database..',
-        link: 'https://ecommerce-application-1-20gq.onrender.com/auth/login',
+        link: 'https://github.com/akashm1110',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Real Time Chat Application',
         description: 'I have built a real-time chat application using the MERN stack and WebSocket, featuring secure authentication for user interactions. It enables instant messaging with a seamless, responsive experience..',
-<<<<<<< HEAD
-        link: 'https://realtime-chat-app-1-ew1h.onrender.com/login',
-=======
-        link: 'https://github.com/akashm1110/Realtime-Chat-App',
->>>>>>> 3abcee400f90925b389ceb40d37eff1d623447a7
+        link: 'https://github.com/akashm1110',
     },
     {
         iconUrl: car,
